@@ -1,5 +1,5 @@
 {
-  "name": "team_5_web_project",
+  "name": "team_8_web_project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/otirmesilati/Team_5_Web_Project.git"
+    "url": "git+https://github.com/otirmesilati/Team_8_Web_Project.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/otirmesilati/Team_5_Web_Project/issues"
+    "url": "https://github.com/otirmesilati/Team_8_Web_Project/issues"
   },
-  "homepage": "https://github.com/otirmesilati/Team_5_Web_Project#readme",
+  "homepage": "https://github.com/otirmesilati/Team_8_Web_Project#readme",
   "dependencies": {
     "express": "^4.17.3"
   },
