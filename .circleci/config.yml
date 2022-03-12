@@ -8,8 +8,8 @@ orbs:
 
 jobs:
   jobs-to-do:
-    executer:
-      name: node/defualt
+    executor:
+      name: node/default
     steps:
       - checkout
       - node/with-cache:
