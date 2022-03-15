@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/node,webstorm
-# Edit at https://www.toptal.com/developers/gitignore?templates=node,webstorm
+# Created by https://www.toptal.com/developers/gitignore/api/webstorm,node,react
+# Edit at https://www.toptal.com/developers/gitignore?templates=webstorm,node,react
 
 ### Node ###
 # Logs
@@ -142,6 +142,19 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
+### react ###
+.DS_*
+**/*.backup.*
+**/*.back.*
+
+node_modules
+
+*.sublime*
+
+psd
+thumb
+sketch
+
 ### WebStorm ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
@@ -251,4 +264,4 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/12206-codestream
 .idea/codestream.xml
 
-# End of https://www.toptal.com/developers/gitignore/api/node,webstorm
+# End of https://www.toptal.com/developers/gitignore/api/webstorm,node,react
