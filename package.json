@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node src/index.js",
-    "start": "node src/index.js",
+    "dev": "node Server/src/index.js",
+    "start": "node Server/src/index.js",
     "test": "mocha tests/*.spec.js --color",
-    "lint": "eslint src/* --color"
+    "lint": "eslint Server/src/* --color"
   },
   "repository": {
     "type": "git",
